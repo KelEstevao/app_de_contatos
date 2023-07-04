@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "306841653586",
+    "project_id": "ifpi-d2ed7",
+    "storage_bucket": "ifpi-d2ed7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306841653586:android:9f6368ab83d60d7b79aa8b",
+        "android_client_info": {
+          "package_name": "com.example.app_de_contatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306841653586-rpb6l14rp2fnr4uh21riuu3vvq8b4tqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNB9OaxKsOgCFUeB9fUMwKi0BZdLvbkFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306841653586-rpb6l14rp2fnr4uh21riuu3vvq8b4tqh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "306841653586-v5b8ocm29nr628912cb59u1uteoce49k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appDeContatos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
