@@ -1,6 +1,6 @@
 # app_de_contatos
 
-A new Flutter project.
+Um projeto criado na Disciplina de Disposivos Móveis.
 
 ## Getting Started
 
