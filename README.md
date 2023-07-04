@@ -1,6 +1,6 @@
 # app_de_contatos
 
-Um projeto criado na Disciplina de Disposivos Móveis.
+Um projeto criado na Disciplina de Dispositivos Móveis.
 
 ## Getting Started
 
